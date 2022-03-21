@@ -4,6 +4,8 @@
   "description": "Ink/Sign-on/Sign of Đapp",
   "main": "index.js",
   "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,6 +29,7 @@
     "ethers": "^5.6.1",
     "hardhat": "^2.9.1",
     "hardhat-deploy": "^0.11.0",
-    "mocha-skip-if": "^0.0.3"
+    "mocha-skip-if": "^0.0.3",
+    "vuepress": "^2.0.0-beta.36"
   }
 }
