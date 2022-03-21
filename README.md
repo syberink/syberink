@@ -1,5 +1,6 @@
-# Ink/Sign-on/Sign of Đapp
-
+# Syber.Ink
+Ink/Sign-on/Sign of Đapp
+ 
 
 # Hardhat Usage
 ```shell
