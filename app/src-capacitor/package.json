@@ -1,0 +1,12 @@
+{
+  "name": "syberink",
+  "version": "0.0.1",
+  "description": "Ink/Sign-on/Sign of SoGaFi Meta Đapp",
+  "author": "Syber.Ink<syberink@pm.me>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
