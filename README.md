@@ -1,5 +1,5 @@
 # Syber.Ink
-Ink/Sign-on/Sign of Đapp
+Ink/Sign-on/Sign of SoGaFi Meta Đapp
  
 
 # Hardhat Usage
